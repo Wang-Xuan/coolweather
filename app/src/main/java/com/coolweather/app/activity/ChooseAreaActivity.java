@@ -246,7 +246,7 @@ public class ChooseAreaActivity  extends Activity {
         }
     }
 
-    /**
+    /**`
      * 捕获Back按键，根据当前的级别来判断，此时应该返回市列表、省列表、还是直接退出
      */
     @Override
